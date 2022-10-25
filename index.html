@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Porcentagem</title>
+    <script src = 'script.js'></script>
+    <link rel = 'stylesheet' href = 'style.css'>
+</head>
+<body>
+    <div class = 'container'>
+        <div class = 'box' id = 'box1'>
+            <h3>Quantidade Equivalente</h3>
+            <input type = 'text' placeholder = 'Qtd' id = 'input1'>
+            <input type = 'text' placeholder = '%' id = 'input2'><br>
+            <input type = 'text' placeholder = '%' id = 'input3'><br>
+            <button onclick = "qtd_equivalente()">Calcular</button><br>
+            <span id = 'resultado1'></span>
+        </div>
+        <div class = 'box' id = 'box2'>
+            <h3>Quantidade Aumentada</h3>
+            <input type = 'text' placeholder = 'Qtd' id = 'input4'><br>
+            <input type = 'text' placeholder = '%' id = 'input5'><br>
+            <button onclick = "qtd_aumentada()">Calcular</button><br>
+            <span id = 'resultado2'></span>
+        </div>
+        <div class = 'box' id = 'box3'>
+            <h3>Quantidade Diminuída</h3>
+            <input type = 'text' placeholder = 'Qtd' id = 'input6'><br>
+            <input type = 'text' placeholder = '%' id = 'input7'><br>
+            <button onclick = "qtd_diminuida()">Calcular</button><br>
+            <span id = 'resultado3'></span>
+        </div>
+        <div class = 'box' id = 'box4'>
+            <h3>Porcentagem Equivalente</h3>
+            <input type = 'text' placeholder = 'Qtd' id = 'input8'>
+            <input type = 'text' placeholder = '%' id = 'input9'><br>
+            <input type = 'text' placeholder = 'Qtd' id = 'input10'><br>
+            <button onclick = "porcentagem_equivalente()">Calcular</button><br>
+            <span id = 'resultado4'></span>
+        </div>
+        <div class = 'box' id = 'box5'>
+            <h3>Aumento Percentual</h3>
+            <input type = 'text' placeholder = 'Qtd' id = 'input11'><br>
+            <input type = 'text' placeholder = 'Qtd' id = 'input12'><br>
+            <button onclick = "aumento_percentual()">Calcular</button><br>
+            <span id = 'resultado5'></span>
+        </div>
+        <div class = 'box' id = 'box6'>
+            <h3>Desconto Percentual</h3>
+            <input type = 'text' placeholder = 'Qtd' id = 'input13'><br>
+            <input type = 'text' placeholder = 'Qtd' id = 'input14'><br>
+            <button onclick = "desconto_percentual()">Calcular</button><br>
+            <span id = 'resultado6'></span>
+        </div>
+    </div>
+</body>
+</html>

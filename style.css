@@ -1,0 +1,73 @@
+body{
+    background-color: black;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.box{
+    width: 50%;
+    margin: 25px auto;
+    border-radius: 20px;
+    line-height: 50px;
+    min-height: 300px;
+    align-self: center;
+    text-align: center;
+}
+
+#box1{
+    /*background-color: rgb(246, 178, 51);*/
+    background: rgb(255,46,0);
+    background: linear-gradient(90deg, rgba(255,46,0,1) 0%, rgba(237,159,12,1) 100%);
+}
+
+#box2{
+    /*background-color: rgb(245, 190, 89);*/
+    background: rgb(237,159,12);
+    background: linear-gradient(90deg, rgba(237,159,12,1) 0%, rgba(241,255,0,1) 100%);
+}
+
+#box3{
+    /*background-color: rgb(243, 243, 104);*/
+    background: rgb(241,255,0);
+    background: linear-gradient(90deg, rgba(241,255,0,1) 0%, rgba(21,200,44,1) 100%);
+}
+
+#box4{
+    /*background-color: rgb(74, 166, 252);*/
+    background: rgb(21,200,44);
+    background: linear-gradient(90deg, rgba(21,200,44,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+#box5{
+    /*background-color: rgb(86, 214, 237);*/
+    background: rgb(0,212,255);
+    background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(9,9,121,1) 100%);
+}
+
+#box6{
+    /*background-color: rgb(108, 237, 237);*/
+    background: rgb(9,9,121);
+    background: linear-gradient(90deg, rgba(9,9,121,1) 0%, rgba(149,0,255,1) 50%);
+}
+
+input{
+    width: 15%;
+    font-size: large;
+    text-align: center;
+}
+
+button{
+    background-color: black;
+    color: white;
+    border-radius: 10%;
+    font-size: large;
+}
+
+span{
+    font-size: larger;
+    font-style: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

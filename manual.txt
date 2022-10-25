@@ -1,0 +1,45 @@
+Antes de começar a utilizar as calculadoras é necessário saber qual a finalidade de cada uma, todas elas envolvem porcentagem.
+
+Obs 1.: No caso de números decimais, utilize ponto (.) ao invés de vírgula (,).
+
+1. Quantidade Equivalente:
+
+    ♦ Descrição: Calculadora para descobrir a quantidade/valor de determinado percentual.
+    ♦ Obs.: Caso tenha um valor inteiro digite no espaço da primeira porcentagem 100.
+    ♦ Ex 1.: Em um evento, estão presentes 150 pessoas, 45% delas são mulheres, qual a quantidade de mulheres nesse evento?
+        => Aqui você colocaria o 150 na 1ª caixa, 100 (de 100%, que é o total de pessoas em percentual) na 2ª, e, 45 na caixa debaixo.
+    ♦ Ex 2.: Em um evento, 250 pessoas presentes são pagantes, o que corresponde a 95% do público. Qual o público total desse evento?
+        => Nesse caso, colocaria 250 na 1ª, 95 na 2ª, e, 100 (o que corresponde em % o total) na caixa debaixo.
+
+2. Quantidade Aumentada:
+
+    ♦ Descrição: Calculadora para somar a quantidade dada ao percentual dado em cima dela.
+    ♦ Ex.: Você vai a um restaurante e seu consumo é de R$ 75, mas ainda falta incluir na conta os 10% do garçom. Qual valor da conta?
+        => Nesse caso, você colocaria o 75 na caixa de cima e o 10 na caixa debaixo.
+
+3. Quantidade Diminuída:
+
+    ♦ Descrição: Calculadora para descontar a quantidade dada pelo percentual dado em cima dela.
+    ♦ Ex.: Você vai a uma loja e suas compras deram R$ 105, mas você possui um desconto de 10% na sua compra. Qual o valor da compra?
+        => Nesse caso, você colocaria o 105 na caixa de cima e o 10 na caixa debaixo.
+
+4. Porcentagem Equivalente:
+
+    ♦ Descrição: Calculadora para descobrir o percentual de determinada quantidade.
+    ♦ Obs.: Caso tenha um valor inteiro digite no espaço da primeira porcentagem 100.
+    ♦ Ex 1.: Em um evento, estão presentes 150 pessoas, 65 são mulheres, qual a porcentagem de mulheres nesse evento?
+        => Aqui você colocaria o 150 na 1ª caixa, 100 (de 100%, que é o total de pessoas em percentual) na 2ª, e, 65 na caixa debaixo.
+    ♦ Ex 2.: Você está no posto de gasolina e pagou R$ 70 pra encher meio tanque. Quantos % do tanque você preencheria com R$ 20?
+        => Nesse caso, colocaria 70 na 1ª, 50 (já que representa metade do tanque) na 2ª, e, 20 na caixa debaixo.
+
+5. Aumento Percentual:
+
+    ♦ Descrição: Calculadora para definir quantos % de aumento teve de um caso pro outro.
+    ♦ Ex.: Você vai pagar uma conta de R$ 350 e percebe que no mês passado essa conta foi de R$ 285. Quantos % sua conta aumentou?
+        => Nesse caso, você colocaria o 285 na caixa de cima e o 350 na caixa debaixo.
+
+6. Desconto Percentual:
+
+    ♦ Descrição: Calculadora para definir quantos % de desconto teve de um caso pro outro.
+    ♦ Ex.: Você foi comprar um produto por R$ 80, ao passar no caixa, recebeu um desconto e seu produto custou R$ 55. Quantos % de desconto você teve?
+        => Nesse caso, você colocaria o 80 na caixa de cima e o 55 na caixa debaixo.
